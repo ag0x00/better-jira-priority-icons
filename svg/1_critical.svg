@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300" version="1">
+<style>
+  .a{
+    stroke-linecap:round;
+    stroke-linejoin:round;
+    stroke-width:40;
+    stroke:#941100;
+  }
+</style>
+  <metadata>
+     Created by Six Jay Networks: https://6jn.tech 
+  </metadata>
+  <g fill="none">
+    <title>
+      1 Critical
+    </title>
+      <title>
+        Layer 1
+      </title>
+          <line x1="150.1" y1="271.4" x2="150.1" y2="28.6" class="a"/>
+          <line x1="67.6" y1="111.1" x2="150.1" y2="28.6" class="a"/>
+          <line x1="232.6" y1="111.1" x2="150.1" y2="28.6" class="a"/>
+  </g>
+</svg>
+ 
