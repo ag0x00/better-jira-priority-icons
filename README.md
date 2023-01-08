@@ -1,6 +1,6 @@
 # Better Priority Icons for Atlassian JIRA
 
-![examples of icons](https://raw.githubusercontent.com/6jn/better-jira-priority-icons/master/overview.png "Examples of Icons")
+![examples of icons](overview.png "Examples of Icons")
 
 Reference icons directly via their URL to configure in your JIRA instance.
 
