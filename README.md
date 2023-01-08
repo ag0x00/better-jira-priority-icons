@@ -1,6 +1,6 @@
 # Better Priority Icons
 
-An alternative set of priority icons for Atlassian Jira or another issue tracking application.
+An alternative set of priority icons for Atlassian Jira or some other issue tracking tool.
 
 ![examples of icons](overview.png "Examples of Icons")
 
